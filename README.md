@@ -20,7 +20,9 @@ News channel as at Cutiepii Updates
  
  
  Note: This instruction set is just a copy paste from marie, note that [FATE UNION](https://t.me/fateunion) aims to handle support for @saber_herobot and now how to setup your own fork, if you find this bit confusing/tough to understand then we recommend you ask a dev, kindly avoid asking how to setup the bot instance in the support chat, it aims to help our own instance of the bot. 
-  
+  `
+
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/farihdzkyy/Asuna--robot)
   ## Setting up the bot (Read this before trying to use!):
 Please make sure to use python3.6, as I cannot guarantee everything will work as expected on older python versions!
 This is because markdown parsing is done by iterating through a dict, which are ordered by default in 3.6.
